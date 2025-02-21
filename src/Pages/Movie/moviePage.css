@@ -1,0 +1,20 @@
+.movie {
+  padding: 15rem 3rem 5rem;
+  .title {
+    font-size: 3.5rem;
+    color: var(--c);
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 3rem;
+    span {
+      color: gold;
+      font-size: 4rem;
+    }
+  }
+}
+@media (max-width: 456px) {
+  .movie{
+    padding-top: 20rem;
+  }
+  
+}
