@@ -7,7 +7,7 @@
   padding: 5rem 0;
   flex-wrap: wrap;
   .pagination-link {
-    curser: pointer;
+    cursor: pointer;
     padding: .5rem;
     font-size: 2rem;
     width: 5rem;
