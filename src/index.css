@@ -42,11 +42,12 @@ a {
   text-decoration: none;
   color: var(--c);
 }
-
-body {
+*{
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+body {
   padding: 0px;
   margin: 0px;
 }
