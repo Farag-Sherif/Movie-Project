@@ -23,8 +23,8 @@
   span::before {
     content: "";
     position: absolute;
-    width: 5rem;
-    height: 5rem;
+    width: 4.5rem;
+    height: 4.5rem;
     border: 0.5rem solid;
     border-color: transparent white transparent transparent;
     border-radius: 50%;
