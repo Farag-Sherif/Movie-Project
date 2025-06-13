@@ -12,8 +12,8 @@
   z-index: 999999;
   span {
     position: relative;
-    width: 5.2rem;
-    height: 5.2rem;
+    width: 5.5rem;
+    height: 5.5rem;
     border-radius: 50%;
     background-image: linear-gradient(180deg, white 15%, var(--bg-6) 50%);
     animation: rotate 1s infinite linear;
@@ -25,7 +25,7 @@
     position: absolute;
     width: 4.5rem;
     height: 4.5rem;
-    border: 0.2rem solid;
+    border: 0.5rem solid;
     border-color: transparent white transparent transparent;
     border-radius: 50%;
     top: 50%;
